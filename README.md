@@ -1,1 +1,4 @@
 # Fast-N-Fitness-Health-Tracker-App-
+Fast-N-Fitness is an Mobile Application Development that keeps a track of health and fitness of the person.
+This app main purpose is to develop Online fitness tracker app which will provide online exercise and notify you how many kilometers you have walked today or how much calories have you burnt on daily basis. This application will support android based system and with this we can perform various actions as well like adding or deleting exercise of your choice and also is an easy way to test your health. It helps in reducing the usage of time for a user.
+Therefore, there is a need for a user-friendly and secure fitness tracker application thatprovides real-time updates, comprehensive analysis features, and synchronization acrossdevices to help individuals manage and improve their fitness well-being efficiently.
